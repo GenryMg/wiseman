@@ -1,0 +1,44 @@
+{
+	"categories": {
+		"Animals": {
+			"commands": ["cat", "catfact", "dog", "dogfact", "panda", "redpanda", "pandafact", "birb", "fox", "foxfact", "pikachu", "koala", "raccoon", "raccoonfact", "kangeroo", "kangeroofact", "elephantfact", "giraffefact", "whalefact", "turtle"],
+			"emoji": ":dog:"
+		},
+		"BotInfo": {
+			"commands": ["help", "ping", "uptime"],
+			"emoji": ":information_source:"
+		},
+		"Food": {
+			"commands": ["recipe"],
+			"emoji": ":pizza:"
+		},
+		"Fun": {
+			"commands": ["meme", "chat", "giphy", "urban", "reddit", "yesno", "8ball", "rps", "uselessfact"],
+			"emoji": ":smile:"
+		},
+		"Images": {
+			"commands": ["trigger", "gay", "wasted", "greyscale", "invert", "blur", "blurple", "glass", "pixelate", "sepia", "spin"],
+			"emoji": ":camera:"
+		},
+		"Math": {
+			"commands": ["multiply", "divide", "add", "subtract", "random", "numberfact"],
+			"emoji": ":1234:"
+		},
+		"Moderation": {
+			"commands": ["clear, kick, ban"],
+			"emoji": ":tools:"
+		},
+		"Music": {
+			"commands": ["play", "skip", "leave", "shuffle", "promote", "join", "nowplaying", "pause", "resume", "loop", "queue"],
+			"emoji": ":musical_note:"
+		},
+		"Text": {
+			"commands": ["emojify", "texttobinary", "binarytotext", "texttobase64", "base64totext"],
+			"emoji": ":ab:"
+		},
+		"Useful": {
+			"commands": ["choose", "stock", "avatar", "say", "advice", "google", "userinfo", "channelinfo", "guildinfo, teamtrees", "coronavirus", "tips"],
+			"emoji": ":muscle:"
+		}
+	}
+}
