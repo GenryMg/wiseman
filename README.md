@@ -1,3 +1,5 @@
-requiescat in pace \n
-Wiseman \n
-MMXX \n
+requiescat in pace
+
+Wiseman
+
+MMXX
